@@ -4,7 +4,9 @@
 
 <h5 align="left">Este repositório contém o projeto de um ChatBot interativo desenvolvido em Python, com uma interface intuitiva construída em Tkinter. O objetivo deste ChatBot é oferecer uma experiência de conversa fluida e personalizada, adaptando respostas a diferentes perfis de usuários e proporcionando uma navegação fácil entre diferentes opções de interação.</h5>
 <h1></h1>
-<p align="center"><img src="https://github.com/user-attachments/assets/9da45ac3-d3f2-4647-bffb-3c644d672a6a" width=600></p>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/f9f56730-3205-40a3-9ed9-be1f3c0bf290" width=800></p>
+
 <h1></h1>
 <h3 align="center">FUNCIONALIDADES</h3>
 
